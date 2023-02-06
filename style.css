@@ -1,0 +1,12 @@
+a:hover{
+    color: rgba(231, 18, 18, 0.253);
+    font-size: 1.8rem;
+    text-decoration: none;
+    
+}
+
+a{
+    font-size: 1.6rem;
+    transition: .6s;
+    
+}
